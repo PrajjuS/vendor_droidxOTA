@@ -1,1 +1,17 @@
- 
+{
+  "response": [
+    {
+        "maintainer": "Name (nickname)",
+        "oem": "OEM",
+        "device": "Device Name",
+        "filename": "droidx-2.x-<date>-<device codename>-v<crversion>.zip",
+        "download": "https://sourceforge.net/projects/droidxui-releases/files/file.zip/download",
+        "timestamp": 1709465705,
+        "sha256": "abcdefg123456",
+        "size": 123456789,
+        "forum": "https://forum.com",
+        "gapps": "https://gapps.com", 
+        "telegram": "https://telegram.com"
+    }
+  ]
+} 
